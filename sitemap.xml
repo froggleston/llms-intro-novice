@@ -10,7 +10,13 @@
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/index.html</loc>
@@ -25,13 +31,25 @@
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/jargon-busting.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/large-language-models.html</loc>
@@ -46,7 +64,13 @@
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/jargon-busting.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/llms-intro-novice/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/llms-intro-novice/large-language-models.html</loc>
