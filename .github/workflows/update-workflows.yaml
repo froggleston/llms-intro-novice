@@ -125,7 +125,7 @@ jobs:
       - name: Update devcontainer
         id: update-devcontainer
         if: ${{ steps.validate-token.outputs.wf == 'true' }}
-        uses: carpentries/actions/update-devcontainer@v1
+        uses: carpentries/actions/update-devcontainer@v1.0.5
         with:
           token: ${{ steps.set-pat.outputs.pat || secrets.SANDPAPER_WORKFLOW }}
           repo: ${{ github.repository }}
